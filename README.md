@@ -20,9 +20,8 @@
 ![light2colored](https://sun9-51.userapi.com/c855532/v855532534/23c8f3/nGEKDobxlyM.jpg "light2colored")
 
 
-# Ссылки на веса и датасет
-Ссылка на датасет для собственной задачи https://drive.google.com/file/d/1ScM8c3EqtGOq0gPOuEgDVoUjI0UKfXfI/view?usp=sharing
-Веса для той же задачи https://drive.google.com/file/d/1MuzvnTIVKr7yqm2iPpoVnk7QaUC6dd_v/view?usp=sharing
+# Ссылки на веса
+Веса для собственной задачи https://drive.google.com/file/d/1MuzvnTIVKr7yqm2iPpoVnk7QaUC6dd_v/view?usp=sharing
 
 
 Веса для задачи horse2zebra https://drive.google.com/file/d/1aH3w7tG7qtuUjIcPOzOsyfSAzy4dshYL/view?usp=sharing
